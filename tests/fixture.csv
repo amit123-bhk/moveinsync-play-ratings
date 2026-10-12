@@ -1,0 +1,9 @@
+reviewId,score,content,appVersion,at,thumbsUpCount,replyContent
+t1,5,Easy to track the cab and understand the route. Nice GUI,12.19.0,2026-09-14,3,
+t2,5,Convenient and all details in one place,12.19.0,2026-10-05,1,
+t3,1,App crashes every 20 days or so,12.19.0,2026-09-18,4,
+t4,1,OTP gets hidden behind the seat belt check and now there are ads,12.19.0,2026-09-30,9,
+t5,1,Not receiving OTP so I cannot login,12.18.2,2026-09-24,6,Please contact your transport desk
+t6,1,Notification says trip not booked even after booking,12.19.0,2026-10-06,5,
+t7,2,Cab tracking is slow and the map lags,12.18.2,2026-10-01,0,
+t8,4,Good but loading takes long,12.18.2,2026-10-02,0,
